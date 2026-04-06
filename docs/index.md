@@ -16,7 +16,7 @@ hero:
 features:
   - title: 学习路线
     details: 系统整理控制理论、嵌入式、无人系统相关知识
-    link: /learning_route/
+    link: /learning-route/
     linkText: 进入板块
   - title: 项目资料
     details: 存放项目设计、调试记录、代码说明

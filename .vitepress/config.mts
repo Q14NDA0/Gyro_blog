@@ -5,11 +5,27 @@ export default defineConfig({
   description: 'my personal tech blog',
 
   themeConfig: {
-    nav: [
+    nav: 
+    [
       { text: '首页', link: '/' },
       { text: '近期感悟', link: '/recent-thoughts' },
       { text: '测试页', link: '/test' },
       { text: '项目资料', link: '/projects' }
-    ]
+    ],
+
+    sidebar: 
+    {
+      '/learning-route/': 
+      [
+        {
+          text: '学习路线',
+          items: 
+          [
+            { text: '总览', link: '/learning-route/' },
+            { text: 'PX4从零理解', link: '/learning-route/px4_basic' },
+          ]
+        }
+      ]
+    }
   }
 })

@@ -4,6 +4,6 @@
 
 ---
 
-## [PX4通信链路入门（一）简单的读取与控制](/learning_route/px4_basic)
+## [PX4通信链路入门（一）简单的读取与控制](/learning-route/px4-basic)
 这是我对PX4仿真环境的入门理解。
 

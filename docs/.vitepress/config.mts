@@ -22,7 +22,7 @@ export default defineConfig({
           items: 
           [
             { text: '总览', link: '/learning-route/' },
-            { text: 'PX4从零理解', link: '/learning-route/px4_basic' },
+            { text: 'PX4通信链路入门（一）简单的读取与控制', link: '/learning-route/px4_basic' },
           ]
         }
       ]
